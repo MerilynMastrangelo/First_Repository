@@ -2,4 +2,4 @@
  
 HelloWorld 😉
 
-This challenge belongs on a playlist made by @gustavoguanabara a great brazilian teacher.   
+This challenge belongs on a playlist made by [Gustavo Guanabara](https://github.com/gustavoguanabara) a great brazilian teacher.   
