@@ -1,4 +1,4 @@
-# This is my first repository an exercise solved in HTML and CSS
+# This is my first repository a challenge solved in HTML and CSS
  
 HelloWorld 😉
 
