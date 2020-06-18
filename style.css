@@ -144,4 +144,6 @@ footer > a{
     color: white;
     text-decoration: none;
 }
-
+#center-image{
+    text-align: center;
+}
